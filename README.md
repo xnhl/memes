@@ -1,0 +1,1 @@
+Meme repositories moved to: https://github.com/wokememes
